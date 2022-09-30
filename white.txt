@@ -155,7 +155,7 @@
 @@||pingtas.qq.com^$important
 @@||pingtcss.qq.com^$important
 @@||pp.myapp.com^$important
-@@||weixin.qq.com^$important
+@@||weixin.qq.com^
 @@||vdun.weibo.com^$important
 @@||soft.tbs.imtt.qq.com^$important
 @@||stat.y.qq.com^$important
